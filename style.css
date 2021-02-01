@@ -1,0 +1,60 @@
+body{
+    background-color:rgba(139, 8, 8, 1) ;
+    text-align: center;
+    margin-top: 5%;
+}
+button{
+    color:black;
+    size: 5px;
+    background-color: yellow;
+    border: black;
+    border-radius: 20px;
+}
+h1{
+    font-family: monospace;
+    color: whitesmoke;
+    font-size: 60px;
+}
+
+textarea{
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+    height: 30%;
+    
+}
+h1:hover{
+    color: lime;
+}
+
+table,th,td{
+    font-family: monospace;
+    color: whitesmoke;
+    border: solid yellow 3px;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-bottom: 20%;
+    font-size: 25px;
+}
+
+label{
+    font-size: 35px;
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+label:hover{
+    color: lightskyblue;
+}
+
+.btn1{
+    padding: 20px;
+    font-size: 15px;
+    color: whitesmoke;
+    background-color: orange;
+    font-family: monospace;
+}
+
+.btn1:hover{
+    background-color: seagreen;
+}
